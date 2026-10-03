@@ -1,0 +1,35 @@
+{
+  "name": "X notes",
+  "identifier": "studio.xnotes.releases",
+  "sourceURL": "https://raw.githubusercontent.com/David-byteaaa/X-notes-releases/main/altstore.json",
+  "subtitle": "X notes 官方更新",
+  "description": "商业专有软件安装包。使用原 Apple 账号在 AltStore 中覆盖更新，保留本机笔记。",
+  "iconURL": "https://raw.githubusercontent.com/David-byteaaa/X-notes-releases/main/icon.png",
+  "apps": [
+    {
+      "name": "X notes",
+      "bundleIdentifier": "studio.xnotes.xNotes",
+      "developerName": "X notes",
+      "subtitle": "手写笔记与 PDF",
+      "localizedDescription": "编辑纸页右上角可直接添加或取消书签，页面总览的「书签」中可快速找到。\n阅读器按屏幕实际像素和缩放加载清晰笔迹；iOS 优先显示 PencilKit 原始笔迹，避免重建后变粗。\n修正 Android 压力采样；手指书写可根据接触面积估算轻重。真实压感仍取决于屏幕与手写笔是否报告压力。\n删除智能修形自动识别，保留手动直线、箭头、矩形、椭圆和三角形；画笔预设入口更清楚。\n版本公告支持按日期或版本号查询和展开预览；「检查更新」支持 Android 下载后由系统确认安装，iOS 交给 AltStore 更新。\n教程新增本版「新功能」截图和操作步骤；后续版本的新功能将替换本节，旧内容归入长期分类。",
+      "iconURL": "https://raw.githubusercontent.com/David-byteaaa/X-notes-releases/main/icon.png",
+      "tintColor": "#344641",
+      "versions": [
+        {
+          "version": "1.6.1",
+          "buildVersion": "23",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/David-byteaaa/X-notes-releases/releases/download/v1.6.1/X-notes-1.6.1-ipad-standard.ipa",
+          "size": 12367385,
+          "minOSVersion": "15.0",
+          "localizedDescription": "编辑纸页右上角可直接添加或取消书签，页面总览的「书签」中可快速找到。\n阅读器按屏幕实际像素和缩放加载清晰笔迹；iOS 优先显示 PencilKit 原始笔迹，避免重建后变粗。\n修正 Android 压力采样；手指书写可根据接触面积估算轻重。真实压感仍取决于屏幕与手写笔是否报告压力。\n删除智能修形自动识别，保留手动直线、箭头、矩形、椭圆和三角形；画笔预设入口更清楚。\n版本公告支持按日期或版本号查询和展开预览；「检查更新」支持 Android 下载后由系统确认安装，iOS 交给 AltStore 更新。\n教程新增本版「新功能」截图和操作步骤；后续版本的新功能将替换本节，旧内容归入长期分类。"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      }
+    }
+  ],
+  "news": []
+}
